@@ -14,7 +14,6 @@ import SettingsPanel from "./components/settings_panel";
 import SettingInputLine from "./components/setting_input";
 import Divider from "./components/divider";
 import Button from "./components/button";
-// import Author from "./components/author";
 import VisPanel from "./components/vis_panel";
 import GenomeEvolutionVis from "./components/genome_vis";
 import EvolPercVis from "./components/evol_perc_vis";
